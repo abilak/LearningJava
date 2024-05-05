@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+interface simpleGUI {
+}
